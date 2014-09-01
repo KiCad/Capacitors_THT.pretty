@@ -1,4 +1,4 @@
-(module Capacitor27x9x17mmRM23 (layer F.Cu) (tedit 53FFFE77)
+(module Capacitor27x9x17mmRM23 (layer F.Cu) (tedit 5403EB4A)
   (descr "Capacitor 27mm x 9mm x 17mm RM 23mm")
   (tags "ARCOTRONICS, R.46, capacitor")
   (fp_text reference C (at 0 -6.35) (layer F.SilkS)

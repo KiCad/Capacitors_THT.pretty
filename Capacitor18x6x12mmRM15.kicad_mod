@@ -1,4 +1,4 @@
-(module Capacitor18x6x12mmRM15 (layer F.Cu) (tedit 53FFF9E5)
+(module Capacitor18x6x12mmRM15 (layer F.Cu) (tedit 5403EB17)
   (descr "Capacitor 18mm x 6mm x 12mm RM 15mm")
   (tags "ARCOTRONICS, R.46, capacitor")
   (fp_text reference C (at 0 -5.08) (layer F.SilkS)

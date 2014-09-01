@@ -1,4 +1,4 @@
-(module CP_16x30mm (layer F.Cu) (tedit 53FC23F8)
+(module CP_16x30mm (layer F.Cu) (tedit 5403EA02)
   (descr "Capacitor, pol, cyl 16x25mm")
   (fp_text reference CP_16x30mm (at 0 -10.16) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
