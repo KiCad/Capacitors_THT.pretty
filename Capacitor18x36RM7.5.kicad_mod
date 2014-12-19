@@ -1,4 +1,4 @@
-(module Capacitors_ThroughHole:Capacitor18x36RM7.5 (layer F.Cu) (tedit 5493EB21)
+(module Capacitors_ThroughHole:Capacitor18x36RM7.5 (layer F.Cu) (tedit 5493EEE7)
   (descr "Capacitor, pol, cyl 16x25mm")
   (fp_text reference Capacitor18x36RM7.5 (at 0 -10.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -18,8 +18,8 @@
   (fp_line (start -2.794 -8.382) (end -2.667 -8.382) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.556 -8.128) (end -3.556 -8.128) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.397 -7.493) (end 2.286 -7.493) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole rect (at 0 3.81) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 0 -3.81) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at 0 3.81) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 0 -3.81) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (model Capacitors_ThroughHole/Capacitor16x30RM7.5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
