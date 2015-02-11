@@ -1,6 +1,6 @@
-(module Capacitor16x30RM7.5 (layer F.Cu) (tedit 5403EA02)
+(module Cap16x30RM7.5 (layer F.Cu) (tedit 5403EA02)
   (descr "Capacitor, pol, cyl 16x25mm")
-  (fp_text reference Capacitor16x30RM7.5 (at 0 -10.16) (layer F.SilkS)
+  (fp_text reference Cap16x30RM7.5 (at 0 -10.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 10.16) (layer F.SilkS)
