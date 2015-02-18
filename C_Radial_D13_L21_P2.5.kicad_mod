@@ -1,6 +1,7 @@
 (module C_Radial_D13_L21_P2.5 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor, pol, cyl 13x21mm")
+  (descr "Capacitor, pol, cyl Diameter 13mm x Length 21mm, Pitch 2.5mm")
+  (tags "Capacitor")
   (fp_text reference C_Radial_D13_L21_P2.5 (at -1.27 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

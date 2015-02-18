@@ -1,7 +1,7 @@
-(module Elko_vert_25x14mm_RM5_CopperClear (layer F.Cu) (tedit 5454A4D5)
-  (descr "Electrolytic Capacitor, vertical, diameter 14mm, RM 5mm, Copper without +,")
-  (tags "Electrolytic Capacitor, vertical, diameter 14mm, RM 5mm, Elko, Electrolytkondensator, Kondensator gepolt, Durchmesser 14mm, Copper without +,")
-  (fp_text reference Elko_vert_25x14mm_RM5_CopperClear (at 2.54 -8.89) (layer F.SilkS)
+(module C_Radial_D14_L25_P5 (layer F.Cu)
+  (descr "Radial Electrolytic Capacitor Diameter 14mm x Length 25mm, Pitch 5mm")
+  (tags "Electrolytic Capacitor")
+  (fp_text reference C_Radial_D14_L25_P5 (at 2.54 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 2.54 8.89) (layer F.SilkS)
@@ -12,7 +12,7 @@
   (fp_circle (center 2.54 0) (end 9.652 0) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole circle (at 5.08 0) (size 2.99974 2.99974) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0) (size 2.99974 2.99974) (drill 1.19888) (layers *.Cu *.Mask F.SilkS))
-  (model Capacitors_Elko_ThroughHole/Elko_vert_25x14mm_RM5_CopperClear.wrl
+  (model Capacitors_ThroughHole/C_Radial_D14_L25_P5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,6 +1,6 @@
 (module C_Radial_D14_L31.5_P5 (layer F.Cu)
-  (descr "Electrolytic Capacitor, vertical, diameter 14mm, RM 5mm")
-  (tags "Electrolytic Capacitor, vertical, diameter 14mm, RM 5mm, Elko, Electrolytkondensator, Kondensator gepolt, Durchmesser 14mm")
+  (descr "Radial Electrolytic Capacitor Diameter 14mm x Length 31.5mm, Pitch 5mm")
+  (tags "Electrolytic Capacitor")
   (fp_text reference C_Radial_D14_L31.5_P5 (at 2.54 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

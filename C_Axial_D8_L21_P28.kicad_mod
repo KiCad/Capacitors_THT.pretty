@@ -1,6 +1,7 @@
 (module C_Axial_D8_L21_P28 (layer F.Cu)
   (at 0 0)
-  (descr "capacitor pol, axial 8x21mm")
+  (descr "capacitor pol, axial Diameter 8mm x Length 21mm, Pitch 28mm")
+  (tags "Capacitor")
   (fp_text reference C_Axial_D8_L21_P28 (at 0 -5.334) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

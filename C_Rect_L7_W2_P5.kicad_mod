@@ -1,6 +1,7 @@
 (module C_Rect_L7_W2_P5 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor non pol, 7x2,5mm")
+  (descr "Capacitor non pol, Length 7 x Width 2.5mm")
+  (tags "Capacitor")
   (fp_text reference C_Rect_L7_W2_P5 (at 0 -3.048) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,6 +1,7 @@
 (module C_Radial_D5_L6_P2.5 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor, pol, cyl 5x6mm")
+  (descr "Capacitor, pol, cyl Diameter 5mm x Length 6mm, Pitch 2.5mm")
+  (tags "Capacitor")
   (fp_text reference C_Radial_D5_L6_P2.5 (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

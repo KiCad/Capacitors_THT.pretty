@@ -1,5 +1,5 @@
-(module C_Rect_L27_W17_P23 (layer F.Cu)
-  (descr "Capacitor 27mm x 9mm x 17mm RM 23mm")
+(module C_Rect_L27_W9_H17_P23 (layer F.Cu)
+  (descr "Capacitor Length 27mm x Width 9mm x Heigth 17mm, Pitch 23mm")
   (tags "ARCOTRONICS, R.46, capacitor")
   (fp_text reference C_Rect_L27_W17_P23 (at 0 -6.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -13,7 +13,7 @@
   (fp_line (start 13.589 -4.572) (end -13.589 -4.572) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -11.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 11.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model Capacitors_ThroughHole/C_Rect_L27_W17_P23.wrl
+  (model Capacitors_ThroughHole/C_Rect_L27_W9_H17_P23.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))
