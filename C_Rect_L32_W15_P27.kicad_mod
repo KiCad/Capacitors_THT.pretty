@@ -1,6 +1,6 @@
 (module C_Rect_L32_W15_P27 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor Length 32mm x Width 15mm, Pitch 27mm")
+  (descr "Film Capacitor Length 32mm x Width 15mm, Pitch 27mm")
   (tags "Capacitor")
   (fp_text reference C_Rect_L32_W15_P27 (at 13.5 -8.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

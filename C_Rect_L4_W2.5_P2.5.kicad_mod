@@ -1,6 +1,6 @@
 (module C_Rect_L4_W2.5_P2.5 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor Length 4mm x Width 2.5mm, Pitch 2.5mm")
+  (descr "Film Capacitor Length 4mm x Width 2.5mm, Pitch 2.5mm")
   (tags "Capacitor")
   (fp_text reference C_Rect_L4_W2.5_P2.5 (at 1.25 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

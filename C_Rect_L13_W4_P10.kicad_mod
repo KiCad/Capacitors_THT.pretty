@@ -1,6 +1,6 @@
 (module C_Rect_L13_W4_P10 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor non-polarized, Length 13 x Width 4mm, Pitch 10mm")
+  (descr "Film Capacitor Length 13 x Width 4mm, Pitch 10mm")
   (tags "Capacitor")
   (fp_text reference C_Rect_L13_W4_P10 (at 5 -3.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

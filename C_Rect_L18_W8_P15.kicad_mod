@@ -1,5 +1,5 @@
 (module C_Rect_L18_W8_P15 (layer F.Cu)
-  (descr "Capacitor non polarized, Length 18 x Width 8mm, Pitch 15mm")
+  (descr "Film Capacitor Length 18 x Width 8mm, Pitch 15mm")
   (tags "Capacitor")
   (fp_text reference C_Rect_L18_W8_P15 (at 7.5 -5.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

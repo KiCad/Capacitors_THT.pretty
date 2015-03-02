@@ -1,6 +1,6 @@
 (module C_Rect_L18_W7_P15 (layer F.Cu)
   (at 0 0)
-  (descr "Capacitor Length 18mm x Width 7mm, Pitch 15mm")
+  (descr "Film Capacitor Length 18mm x Width 7mm, Pitch 15mm")
   (tags "Capacitor")
   (fp_text reference C_Rect_L18_W7_P15 (at 7.5 -4.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

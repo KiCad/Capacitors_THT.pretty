@@ -1,6 +1,6 @@
 (module C_Rect_L18_W15_P15 (layer F.Cu)
-  (descr "Capacitor Length 18mm x Width 9mm x Height 15mm, Pitch 15mm")
-  (tags "Kemet R.46 film capacitor")
+  (descr "Film Capacitor Length 18mm x Width 9mm x Height 15mm, Pitch 15mm")
+  (tags "Kemet R.46 Capacitor")
   (fp_text reference C_Rect_L18_W9_H15_P15 (at 7.5 -5.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
