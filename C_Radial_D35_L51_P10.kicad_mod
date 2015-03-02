@@ -158,8 +158,8 @@
   (pad 1 thru_hole rect (at 0 0) (size 2 2) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 10 0) (size 2 2) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (model Capacitors_ThroughHole/C_Radial_D35_L51_P10.wrl
-    (at (xyz 0 0 0))
+    (at (xyz 0.19685 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )
