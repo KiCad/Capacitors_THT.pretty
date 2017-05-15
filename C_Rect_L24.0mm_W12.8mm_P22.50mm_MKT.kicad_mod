@@ -23,7 +23,7 @@
   (fp_line (start 23.95 -6.75) (end -1.45 -6.75) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 22.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model Capacitors_THT.3dshapes/C_Rect_L24.0mm_W12.8mm_P22.50mm_MKT.wrl
+  (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Rect_L24.0mm_W12.8mm_P22.50mm_MKT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
