@@ -118,7 +118,7 @@
   (pad 2 thru_hole circle (at 2 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/CP_Radial_D4.0mm_P2.00mm.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
