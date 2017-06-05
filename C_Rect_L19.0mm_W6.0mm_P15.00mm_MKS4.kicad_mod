@@ -26,7 +26,7 @@
   (pad 2 thru_hole circle (at 15 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Rect_L19.0mm_W6.0mm_P15.00mm_MKS4.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
