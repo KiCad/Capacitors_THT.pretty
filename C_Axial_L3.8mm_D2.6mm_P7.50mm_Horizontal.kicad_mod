@@ -1,4 +1,4 @@
-(module C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal (layer F.Cu) (tedit 597BC7C2)
+(module C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal (layer F.Cu) (tedit 597C781B)
   (descr "C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf")
   (tags "C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm")
   (fp_text reference REF** (at 3.75 -2.36) (layer F.SilkS)

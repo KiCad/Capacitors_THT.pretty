@@ -1,4 +1,4 @@
-(module C_Rect_L19.0mm_W5.0mm_P15.00mm_MKS4 (layer F.Cu) (tedit 597BC7C2)
+(module C_Rect_L19.0mm_W5.0mm_P15.00mm_MKS4 (layer F.Cu) (tedit 597C781A)
   (descr "C, Rect series, Radial, pin pitch=15.00mm, , length*width=19*5mm^2, Capacitor, http://www.wima.com/EN/WIMA_MKS_4.pdf")
   (tags "C Rect series Radial pin pitch 15.00mm  length 19mm width 5mm Capacitor")
   (fp_text reference REF** (at 7.5 -3.81) (layer F.SilkS)
